@@ -37,5 +37,5 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
 ![banner](bin/Matrices_de_confusión.png)  
 
  ### Usando red MLP (Multilayer perceptron)
-![banner](bin/matriz de confusion ;L.png)  
+![banner](bin/"matriz de confusion ;L".png)  
 
