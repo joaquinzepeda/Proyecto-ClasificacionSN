@@ -46,4 +46,5 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
 
   <p align="center">
    <img src="bin/MLP/matriz_de_confusion_MLP.png" width="500" title="MLP">
+  <img src="bin/MLP/curva_de_aprendizaje.png" width="500" title="curva de aprendizaje">
   </p>
