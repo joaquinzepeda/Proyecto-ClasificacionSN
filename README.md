@@ -9,17 +9,16 @@ Ustedes deberán inspeccionar, visualizar y preprocesar los datos para luego ext
 Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación donde al menos 1 debe ser distinto al del otro grupo. El algoritmo que escojan deberá ser estudiado a cabalidad, además deberán investigar e implementar técnicas de proyección/reducción de dimensionalidad de los vectores de características y lidiar con el desbalance de las clases . 
 
 ## Software and Libraries
-
-Python 3.6.0
-Anaconda 4.3.0 (32 bit)
-scikit-learn 0.18.1
-
-
-
+   Opción 1: Usar el entorno gratuito de Google Colab  
+   Opción 2: Python 3.6 Jupyter notebook 
+   scikit-learn      0.24.2
+   imbalanced-learn  0.8.1
+   pandas            1.3.2
+   tensorflow        2.3.0
 
 ## Instrucciones para ejecutar el código:
 1.	Para la **extracción de características** se debe ejecutar el archivo SN_feature_extraction.ipynb  
-  1.1.	Si se ejecuta utilizando jupyter notebook es necesario tener instaladas las librerías de Alerce, esto puede ser complicado si es que no se trabaja en un ambiente de Linux.  
+  1.1.	Si se ejecuta utilizando jupyter notebook es necesario tener instaladas las librerías de ALeRCE, esto puede ser complicado si es que no se trabaja en un ambiente de Linux.  
   1.2.	Si se ejecuta utilizando Google Colab, se debe ejecutar el “Bloque inicial”, luego reiniciar el entorno de ejecución (Reiniciar el kernel) para luego ejecutar los bloques.              
   
          `!python -m pip install Cython      
