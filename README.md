@@ -18,7 +18,7 @@ Tutor : Pablo Montero
           !python -m pip install pyarrow
           
           !python -m pip install -e git+https://git@github.com/alercebroker/lc_classifier#egg=lc_classifier  
-          ```
+            ```
 
 2.	Para la **clasificación de supernovas utilizando Random Forest** se debe ejecutar el archivo Clasificación de Supernovas RF.ipynb.   
     2.1.1.	 No se recomienda ejecutar los bloques de “Random Forest Hyperparameter tuning” pues estos toman mucho tiempo, pero es posible observar los resultados.
