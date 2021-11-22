@@ -1,4 +1,4 @@
-  <p align="center">
+  <p align="left">
   <img src="bin/cropped-logo-fcfm-die-1.png" width="480"  title="RF">
  </p>
  
