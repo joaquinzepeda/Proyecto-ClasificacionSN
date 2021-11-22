@@ -8,7 +8,11 @@ En este proyecto se busca clasificar, de forma supervisada, series de tiempo ast
 Ustedes deberán inspeccionar, visualizar y preprocesar los datos para luego extraer características de cada curva de luz. Una vez teniendo las características deberán trabajarlas y proponer un modelo supervisado que permita clasificarlas según su determinada clase. Para cumplir con lo anterior, propongan una estrategia para entrenar y evaluar el desempeño bajo un contexto de desbalance. Finalmente deberán estudiar la relevancia que tiene cada característica en la clasificación final. 
 Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación donde al menos 1 debe ser distinto al del otro grupo. El algoritmo que escojan deberá ser estudiado a cabalidad, además deberán investigar e implementar técnicas de proyección/reducción de dimensionalidad de los vectores de características y lidiar con el desbalance de las clases . 
 
+## Software and Libraries
 
+Python 3.6.0
+Anaconda 4.3.0 (32 bit)
+scikit-learn 0.18.1
 
 
 
