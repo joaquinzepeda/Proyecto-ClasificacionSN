@@ -32,5 +32,10 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
     2.1.1.	 No se recomienda ejecutar los bloques de “Random Forest Hyperparameter tuning” pues estos toman mucho tiempo, pero es posible observar los resultados.
 3.	Para la **clasificación de supernovas utilizando una red MLP** se debe ejecutar el archivo Clasificación de Supernovas MLP.ipynb.   
   
- ## Results
+ ## Resultados de la Clasificación
+ ### Usando Random Forest
 ![banner](bin/Matrices_de_confusión.png)  
+
+ ### Usando red MLP (Multilayer perceptron)
+![banner](bin/matriz de confusion ;L.png)  
+
