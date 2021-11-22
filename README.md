@@ -41,5 +41,5 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
  ### Usando red MLP (Multilayer perceptron)
 
  <p align="center">
- <img src="bin/MLP/matriz_de_confusion_MLP.png" width="600" title="MLP">
+ <img src="bin/MLP/matriz_de_confusion_MLP.png" width="500" title="MLP">
 </p>
