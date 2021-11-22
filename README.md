@@ -10,11 +10,11 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
 
 ## Software and Libraries
    Opción 1: Usar el entorno gratuito de Google Colab  
-   Opción 2: Python 3.6 Jupyter notebook 
-   scikit-learn      0.24.2
-   imbalanced-learn  0.8.1
-   pandas            1.3.2
-   tensorflow        2.3.0
+   Opción 2: Python 3.6 Jupyter notebook   
+   scikit-learn      0.24.2  
+   imbalanced-learn  0.8.1  
+   pandas            1.3.2  
+   tensorflow        2.3.0  
 
 ## Instrucciones para ejecutar el código:
 1.	Para la **extracción de características** se debe ejecutar el archivo SN_feature_extraction.ipynb  
