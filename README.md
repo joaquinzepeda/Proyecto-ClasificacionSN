@@ -7,7 +7,7 @@ Tutor : Pablo Montero
   1.1.	Si se ejecuta utilizando jupyter notebook es necesario tener instaladas las librerías de Alerce, esto puede ser complicado si es que no se trabaja en un ambiente de Linux.  
   1.2.	Si se ejecuta utilizando Google Colab, se debe ejecutar el “Bloque inicial”, luego reiniciar el entorno de ejecución (Reiniciar el kernel) para luego ejecutar los bloques.              
         
-           ``` !python -m pip install Cython  
+           ```python !python -m pip install Cython  
           
           !python -m pip install -e git+https://git@github.com/alercebroker/turbo-fats#egg=turbofats
           
