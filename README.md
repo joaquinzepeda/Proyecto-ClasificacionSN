@@ -34,10 +34,12 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
   
  ## Resultados de la Clasificación
  ### Usando Random Forest
+ ![banner](bin/RandomForest/Matrices_de_confusión.png) 
  <p align="center">
-![banner](bin/RandomForest/Matrices_de_confusión.png)  
+ <img src="bin/RandomForest/Matrices_de_confusión.png" width="350" title="RF">
 </p>
  ### Usando red MLP (Multilayer perceptron)
+ ![banner](bin/MLP/matriz_de_confusion_MLP.png)  
  <p align="center">
-![banner](bin/MLP/matriz_de_confusion_MLP.png)  
+ <img src="bin/MLP/matriz_de_confusion_MLP.png" width="350" title="MLP">
 </p>
