@@ -1,4 +1,6 @@
-![banner](bin/cropped-logo-fcfm-die-1.png)  
+  <p align="center">
+  <img src="bin/cropped-logo-fcfm-die-1.png" width="1000"  title="RF">
+ </p>
 # Proyecto de clasificación supervisada de SuperNovas para el curso EL4106  
 Integrantes : Joaquin Zepeda, Benjamin Irarrazabal  
 Tutor : Pablo Montero   
