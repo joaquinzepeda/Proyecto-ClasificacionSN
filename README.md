@@ -1,4 +1,7 @@
-![banner](bin/cropped-logo-fcfm-die-1.png)  
+  <p align="left">
+  <img src="bin/cropped-logo-fcfm-die-1.png" width="480"  title="RF">
+ </p>
+ 
 # Proyecto de clasificación supervisada de SuperNovas para el curso EL4106  
 Integrantes : Joaquin Zepeda, Benjamin Irarrazabal  
 Tutor : Pablo Montero   
@@ -34,8 +37,14 @@ Con respecto a las variantes, deberán estudiar 3 algoritmos de clasificación d
   
  ## Resultados de la Clasificación
  ### Usando Random Forest
-![banner](bin/Matrices_de_confusión.png)  
+ 
+ <p align="center">
+  <img src="bin/RandomForest/Matrices_de_confusión.png" width="720"  title="RF">
+ </p>
 
  ### Usando red MLP (Multilayer perceptron)
-![banner](bin/"matriz de confusion ;L".png)  
 
+  <p align="center">
+   <img src="bin/MLP/matriz_de_confusion_MLP.png" width="480" title="MLP">
+  <img src="bin/MLP/curva_de_aprendizaje.png" width="462" title="curva de aprendizaje">
+  </p>
